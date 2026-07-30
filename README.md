@@ -1,4 +1,4 @@
 # github-demo
 First git repo.
 <br>
-Author - Sher
+Author - Sher (Qvantel)
